@@ -9,7 +9,7 @@ public class Exercise2 {
         for(int i=1;i<inputParameter;i++){
             returnParameter+= "*";
         }
-        
+
         return returnParameter;
     }
 
