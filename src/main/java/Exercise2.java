@@ -6,7 +6,7 @@ public class Exercise2 {
         if( inputParameter <0)
             return "incorrect number";
 
-        for(int i=0;i<inputParameter;i++){
+        for(int i=1;i<inputParameter;i++){
             returnParameter+= "*";
         }
         return returnParameter;
