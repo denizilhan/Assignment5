@@ -15,6 +15,7 @@ public class Exercise3 {
 
         Set setp1 =new HashSet();
         for (int k=0; k<p1.length();k++){
+
             setp1.add(p1.charAt(k));
         }
 
