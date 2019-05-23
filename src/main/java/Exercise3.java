@@ -21,6 +21,7 @@ public class Exercise3 {
 
 
 
+
         Set setp2 =new HashSet();
         for (int j=0;j<p2.length();j++){
             setp2.add(p2.charAt(j));
