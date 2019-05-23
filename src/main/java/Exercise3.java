@@ -5,6 +5,7 @@ import java.util.Set;
 public class Exercise3 {
 
     public static String ex3(String p1, String p2) {
+
         if (p2 == null)
             return p1;
         if (p1 == p2)
